@@ -22,7 +22,7 @@
                 <scalaVersion>2.11.8</scalaVersion>
                 <scalaBinaryVersion>2.11</scalaBinaryVersion>
                 <scalatest.version>3.0.1</scalatest.version>
-                <log4j.version>2.11.2</log4j.version>
+                <log4j.version>2.13.3</log4j.version>
             </properties>
 
             <dependencies>
